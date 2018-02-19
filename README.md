@@ -1,2 +1,1 @@
-# jakeeney.github.io
-A website that's personal to me
+*Something more to come soon...*
