@@ -1,1 +1,2 @@
-*Something more to come soon...*
+# ZugzwangGUI
+GUI for a novel game
